@@ -19,8 +19,8 @@ import ItemPhone from "./components/Items/ItemPhone";
 import ItemSaree from "./components/Items/ItemSaree";
 import ItemLehenga from "./components/Items/ItemLehnga";
 import Order from "./components/Orders/Order";
-import LoginForm from "./auth/loginForm";
-import SignupForm from "./auth/signupForm";
+import LoginForm from "./auth/LoginForm";
+import SignupForm from "./auth/SignupForm";
 
 const router = createBrowserRouter([
   {
