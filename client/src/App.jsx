@@ -6,7 +6,7 @@ import OrderDetails from './components/Orders/OrderDetails';
 import HomePage from "./components/HomePage/HomePage";
 import Product from "./components/Product/Product";
 import ProductDetails from './components/ProductDetails/ProductDetails'
-import Cart from "./components/cart/cart";
+import Cart from "./components/cart/Cart";
 import CheckOut from './components/Checkout/CheckOut';
 import {
   createBrowserRouter,
