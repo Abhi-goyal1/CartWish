@@ -14,7 +14,7 @@ import {
  
 } from "react-router-dom";
 import ItemWatch from "./components/Items/ItemWatch";
-import ItemLaptop from "./components/Items/ItemLaptop";
+
 import ItemPhone from "./components/Items/ItemPhone";
 import ItemSaree from "./components/Items/ItemSaree";
 import ItemLehenga from "./components/Items/ItemLehnga";
@@ -43,10 +43,7 @@ const router = createBrowserRouter([
     element: <ItemWatch />,
   },
 
-  {
-    path: "/laptop",
-    element: <ItemLaptop />,
-  },
+ 
 
   {
     path: "/phone",
