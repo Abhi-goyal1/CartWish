@@ -11,8 +11,7 @@ import CheckOut from './components/Checkout/CheckOut';
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
-  Link,
+ 
 } from "react-router-dom";
 import ItemWatch from "./components/Items/ItemWatch";
 import ItemLaptop from "./components/Items/ItemLaptop";
